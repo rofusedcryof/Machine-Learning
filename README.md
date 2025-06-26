@@ -16,7 +16,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
 1. Persiapan Awal
 Salin repositori ini ke mesin lokal Anda menggunakan git.
 
-git clone [https://github.com/rofusedcryof/Machine-Learning.git] https://github.com/rofusedcryof/Machine-Learning.git
+git clone https://github.com/rofusedcryof/Machine-Learning.git
 cd UAS
 
 1. Setup Virtual Environment
